@@ -9,6 +9,7 @@ class HandleInertiaRequests extends Middleware
 {
     /**
      * The root template that is loaded on the first page visit.
+     * ikhsan aufa r
      *
      * @var string
      */
